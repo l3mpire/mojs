@@ -1,6 +1,6 @@
 {
   "name": "@mojs/core",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "description": "The motion graphics toolbelt for the web",
   "source": "src/mojs.babel.js",
   "main": "dist/mo.umd.js",
@@ -39,7 +39,7 @@
   },
   "homepage": "https://mojs.github.io",
   "engines": {
-    "node": "^20",
+    "node": ">=20",
     "npm": "^10"
   },
   "devDependencies": {
